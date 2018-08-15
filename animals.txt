@@ -3,3 +3,9 @@ Cat
 Tiger
 Lion
 Scorpio
+Deer
+Puppy
+Monkey
+Cow
+Goat
+Rabbit
